@@ -1,0 +1,13 @@
+D:\Documents\C#\SE140512_CaoGiaHao\frmSong\bin\Debug\frmSong.exe.config
+D:\Documents\C#\SE140512_CaoGiaHao\frmSong\bin\Debug\frmSong.exe
+D:\Documents\C#\SE140512_CaoGiaHao\frmSong\bin\Debug\frmSong.pdb
+D:\Documents\C#\SE140512_CaoGiaHao\frmSong\bin\Debug\SongAssemblies.dll
+D:\Documents\C#\SE140512_CaoGiaHao\frmSong\bin\Debug\SongAssemblies.pdb
+D:\Documents\C#\SE140512_CaoGiaHao\frmSong\obj\Debug\frmSong.csprojAssemblyReference.cache
+D:\Documents\C#\SE140512_CaoGiaHao\frmSong\obj\Debug\frmSong.frmSongMain.resources
+D:\Documents\C#\SE140512_CaoGiaHao\frmSong\obj\Debug\frmSong.Properties.Resources.resources
+D:\Documents\C#\SE140512_CaoGiaHao\frmSong\obj\Debug\frmSong.csproj.GenerateResource.cache
+D:\Documents\C#\SE140512_CaoGiaHao\frmSong\obj\Debug\frmSong.csproj.CoreCompileInputs.cache
+D:\Documents\C#\SE140512_CaoGiaHao\frmSong\obj\Debug\frmSong.csproj.CopyComplete
+D:\Documents\C#\SE140512_CaoGiaHao\frmSong\obj\Debug\frmSong.exe
+D:\Documents\C#\SE140512_CaoGiaHao\frmSong\obj\Debug\frmSong.pdb

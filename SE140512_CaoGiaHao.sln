@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SongAssemblies", "SongAssemblies\SongAssemblies.csproj", "{75F3F7DC-6760-4847-9499-4ED2EC6C8502}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "frmSong", "frmSong\frmSong.csproj", "{15556927-C515-4022-9F82-10C160BB2D7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75F3F7DC-6760-4847-9499-4ED2EC6C8502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75F3F7DC-6760-4847-9499-4ED2EC6C8502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75F3F7DC-6760-4847-9499-4ED2EC6C8502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75F3F7DC-6760-4847-9499-4ED2EC6C8502}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15556927-C515-4022-9F82-10C160BB2D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15556927-C515-4022-9F82-10C160BB2D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15556927-C515-4022-9F82-10C160BB2D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15556927-C515-4022-9F82-10C160BB2D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60170836-2D09-4CE5-AFFB-8B6917267664}
+	EndGlobalSection
+EndGlobal

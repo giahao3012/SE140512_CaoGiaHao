@@ -1,0 +1,6 @@
+D:\Documents\C#\SE140512_CaoGiaHao\SongAssemblies\bin\Debug\SongAssemblies.dll
+D:\Documents\C#\SE140512_CaoGiaHao\SongAssemblies\bin\Debug\SongAssemblies.pdb
+D:\Documents\C#\SE140512_CaoGiaHao\SongAssemblies\obj\Debug\SongAssemblies.csprojAssemblyReference.cache
+D:\Documents\C#\SE140512_CaoGiaHao\SongAssemblies\obj\Debug\SongAssemblies.csproj.CoreCompileInputs.cache
+D:\Documents\C#\SE140512_CaoGiaHao\SongAssemblies\obj\Debug\SongAssemblies.dll
+D:\Documents\C#\SE140512_CaoGiaHao\SongAssemblies\obj\Debug\SongAssemblies.pdb
